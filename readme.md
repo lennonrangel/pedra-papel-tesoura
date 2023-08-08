@@ -13,11 +13,17 @@ Este é um pequeno jogo em Python que permite que você jogue Pedra, Papel e Tes
 5. O bot também fará sua escolha aleatoriamente.
 6. O resultado do jogo será exibido na tela, indicando se você ganhou, perdeu ou empatou.
 
+## Requisitos e Execução 
+
+Para executar o jogo em seu próprio sistema, siga estas etapas:
+
+1. Certifique-se de ter o Python instalado em seu computador.
+2. Clone este repositório ou faça o download dos arquivos.
+3. Abra o terminal e navegue até o diretório do projeto.
+   
 ## Exemplo de Uso
 
 ```bash
-$python pedra_papel_tesoura.py
-
 VAMOS JOGAR PEDRA, PAPEL E TESOURA!
 CONSIDERE:
 
